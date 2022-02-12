@@ -7,7 +7,7 @@ function App() {
   const [people, setPeople] = useState(data);
   return (
     <>
-      <h1>Birthday Reminder App</h1>
+      <h1>BIRTHDAY REMINDER APP</h1>
       <main>
         <section className="container">
           <h3>{people.length} Birthday Today</h3>
